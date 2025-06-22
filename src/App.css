@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  background: #f8fafc;
+  color: #1f2937;
+}
+
+.App {
+  min-height: 100vh;
+}
+
+.container {
+  display: flex;
+  min-height: calc(100vh - 60px);
+  margin-top: 60px;
+}
+
+.main-content {
+  flex: 1;
+  padding: 2rem;
+  background: #f8fafc;
+  overflow-x: auto;
+  margin-left: 280px;
+  min-height: calc(100vh - 60px); 
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    margin-top: 60px; 
+  }
+
+  .main-content {
+    padding: 1rem;
+    margin-left: 0; 
+    margin-top: 80px; 
+    min-height: calc(100vh - 140px); 
+  }
+}

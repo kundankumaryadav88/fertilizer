@@ -1,0 +1,36 @@
+.home {
+  width: 100%;
+}
+
+.home-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.home-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #1f2937;
+  margin-bottom: 0.5rem;
+  background: linear-gradient(135deg, #0f766e, #065f46);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.home-subtitle {
+  color: #6b7280;
+  font-size: 1rem;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .home-title {
+    font-size: 1.5rem;
+  }
+
+  .home-subtitle {
+    font-size: 0.875rem;
+  }
+}

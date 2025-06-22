@@ -1,0 +1,45 @@
+.featured {
+  width: 100%;
+}
+
+.featured-charts-grid {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: 1fr;
+}
+
+.pie-charts-row {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+}
+
+.big-chart-section {
+  width: 100%;
+}
+
+.small-charts-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+@media (max-width: 1200px) {
+  .small-charts-row {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .pie-charts-row {
+    grid-template-columns: 1fr;
+  }
+
+  .small-charts-row {
+    grid-template-columns: 1fr;
+  }
+
+  .featured-charts-grid {
+    gap: 1rem;
+  }
+}
