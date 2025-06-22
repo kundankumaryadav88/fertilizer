@@ -1,8 +1,8 @@
-# 🌾 AgriSupply Dashboard
+# 🌾 Fyllo Dashboard
 
 A modern, responsive fertilizer supply chain analytics dashboard built with React. Monitor fertilizer requirements, availability, and supply gaps across different states and time periods with interactive charts and comprehensive data tables.
 
-![Dashboard Preview](https://via.placeholder.com/800x400/0f766e/ffffff?text=AgriSupply+Dashboard)
+![Dashboard Preview](https://fertilizer-opal.vercel.app/)
 
 ## ✨ Features
 
@@ -38,8 +38,8 @@ A modern, responsive fertilizer supply chain analytics dashboard built with Reac
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/yourusername/agrisupply-dashboard.git
-   cd agrisupply-dashboard
+   git clone https://github.com/kundankumaryadav88/fertilizer.git
+   cd fertilizer
    \`\`\`
 
 2. **Install dependencies**
@@ -254,7 +254,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/kundanyadav88)
+- **Your Name** - *Initial work* - [YourGitHub](https://github.com/kundankumaryadav88/fertilizer)
 
 ## 🙏 Acknowledgments
 
@@ -267,9 +267,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help with setup, please:
 
-1. Check the [Issues](https://github.com/yourusername/agrisupply-dashboard/issues) page
-2. Create a new issue with detailed description
-3. Contact: kundankumar97779@gmail.com
+1. Create a new issue with detailed description
+2. Contact: kundankumar97779@gmail.com
 
 ---
 
