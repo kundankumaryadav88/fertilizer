@@ -2,7 +2,7 @@
 
 A modern, responsive fertilizer supply chain analytics dashboard built with React. Monitor fertilizer requirements, availability, and supply gaps across different states and time periods with interactive charts and comprehensive data tables.
 
-![Dashboard Preview](https://fertilizer-opal.vercel.app/)
+[Dashboard Preview](https://fertilizer-opal.vercel.app/)
 
 ## ✨ Features
 
@@ -254,7 +254,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/kundankumaryadav88/fertilizer)
+- **Your Name** - *Initial work* - [YourGitHub](https://github.com/kundankumaryadav88)
 
 ## 🙏 Acknowledgments
 
